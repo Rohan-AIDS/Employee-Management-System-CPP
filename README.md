@@ -1,4 +1,5 @@
-# Employee Management System (C++ Mini Project)
+# Employee Management System (C++ Project)
+![Project Screenshot](screeenshot(1).png)
 
 This is a console-based **Employee Management System** built using **C++**, demonstrating Object-Oriented Programming (OOP), file handling, binary data storage, and a menu-driven interface.  
 This project simulates a simple HR system where administrators can manage employee records efficiently without using a traditional database.
